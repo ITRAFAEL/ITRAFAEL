@@ -8,13 +8,4 @@ I'm an indie full-stack developer and content creator building my version of the
   <a href="https://www.linkedin.com/in/rafael-franklin-de-alencar-corrêa-a777a7203/" target="_blank" rel="noopener noreferrer">
   <img src="LinkedinLogo.png" alt="LinkedIn" title="Visit my LinkedIn profile" width="30" height="30">
   </a>
-  <a href="https://www.youtube.com/c/fknight">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE60328n17ZGcfg?color=%231A0DAB&logo=eye&logoColor=white&style=for-the-badge&labelColor=%2379600"/>
-  </a>
-  <a href="https://github.com/ForrestKnight?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=person-add&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960C&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
 </p>
