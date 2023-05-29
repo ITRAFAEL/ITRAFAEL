@@ -1,16 +1,20 @@
-### Hi there 👋
+# Forrest Knight
 
-<!--
-**ITRAFAEL/ITRAFAEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Craftsman (Developer/Filmmaker/Creator)**
 
-Here are some ideas to get you started:
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight](https://www.youtube.com/c/fknight?sub_confirmation=1)" to more than 400k subscribers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE60328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%23CE4630"/>
+  </a>
+  <a href="https://www.youtube.com/c/fknight">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE60328n17ZGcfg?color=%231A0DAB&logo=eye&logoColor=white&style=for-the-badge&labelColor=%2379600"/>
+  </a>
+  <a href="https://github.com/ForrestKnight?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=person-add&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960C&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</p>
