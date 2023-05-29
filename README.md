@@ -6,7 +6,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-profile-url" target="_blank" rel="noopener noreferrer">
-  <img src="linkedin-icon.png" alt="LinkedIn" title="Visit my LinkedIn profile" width="30" height="30">
+  <img src="linkedinLogo.png" alt="LinkedIn" title="Visit my LinkedIn profile" width="30" height="30">
   </a>
   <a href="https://www.youtube.com/c/fknight">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE60328n17ZGcfg?color=%231A0DAB&logo=eye&logoColor=white&style=for-the-badge&labelColor=%2379600"/>
